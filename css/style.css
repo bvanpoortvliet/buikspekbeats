@@ -1,0 +1,17 @@
+.body {
+  background-color: #F9D9E0;
+}
+
+.jumbotron {
+  opacity: 80%;
+}
+
+.social_icon {
+  font-size: 25px;
+  padding: 5px;
+}
+
+.profilepic {
+  border-radius: 50%;
+  padding: 5px;
+}
